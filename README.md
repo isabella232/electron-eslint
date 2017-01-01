@@ -6,7 +6,7 @@
 [![Bountysource](https://www.bountysource.com/badge/tracker?tracker_id=282608)](https://www.bountysource.com/trackers/282608-eslint?utm_source=282608&utm_medium=shield&utm_campaign=TRACKER_BADGE)
 [![Join the chat at https://gitter.im/eslint/eslint](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/eslint/eslint?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-# ESLint
+# Electron-ESLint
 
 [Website](http://eslint.org) |
 [Configuring](http://eslint.org/docs/user-guide/configuring) |
@@ -17,6 +17,8 @@
 [Twitter](https://twitter.com/geteslint) |
 [Mailing List](https://groups.google.com/group/eslint) |
 [Chat Room](https://gitter.im/eslint/eslint)
+
+Electron-ESLint is a fork of Electron that is more suited for cross-platform JavaScript projects.
 
 ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code. In many ways, it is similar to JSLint and JSHint with a few exceptions:
 
